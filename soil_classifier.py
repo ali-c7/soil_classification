@@ -13,9 +13,9 @@ st.write("")
 st.write("Please import a .csv file containing the mass retained on each sieve.")
 st.write("This program was developed based on the U.S Sieve No. system.")
 st.header("Instructions:")
-st.header("Create an excel spreadsheet with two columns labeled "Particle Size" and "W-Retained"")
-st.header("Write down the sizes of each sieve gradation and the corresponding weight retained")
-st.header("The rest is taken care of ;))
+st.write("Create an excel spreadsheet with two columns labeled 'Particle Size' and 'W-Retained'")
+st.write("Write down the sizes of each sieve gradation and the corresponding weight retained")
+st.write("The rest is taken care of ;))
 
 from math import log2, log10
 
