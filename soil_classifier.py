@@ -16,7 +16,7 @@ st.header("Instructions:")
 st.write("Create an excel spreadsheet with two columns labeled 'Particle Size' and 'W-Retained'")
 st.text("* Note - It must be in that exact order and spelling")
 st.write("Write down the sizes of each sieve gradation and the corresponding weight retained")
-st.write("The rest is taken care of ;)")
+st.write("The rest is taken care of! Happy classifying :) ")
 
 from math import log2, log10
 
